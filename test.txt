@@ -1,0 +1,18 @@
+int a, b= 45;
+
+string str = sub("hola", 2 ,3);
+a = 6 + b;
+cangri(a);
+cangri(str);
+a = 1/1;
+cangri();
+cangri();
+cangri("a = ", a, ", b = " #+ "    " #+ to_string(b));
+
+cangri();
+cangri(  65 #* "i <3 Yovanna ");
+cangri();
+cangri( replace("i <3 Yovanna ", "Yovanna", "Mafer" ));
+cangri(20#*"-");
+cangri(trim("         h   "));
+$
